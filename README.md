@@ -12,6 +12,5 @@
  
  <br>
   
-  ![Snake animation](https://github.com/PauloEduChikalski/PauloEduChikalski/blob/output/github-contribution-grid-snake.svg)
 
 </div>
