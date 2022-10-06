@@ -1,7 +1,7 @@
  <div>
    <a href="https://github.com/PauloEduChikalski">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduChikalski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduChikalski&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduChikalski&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduChikalski&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
